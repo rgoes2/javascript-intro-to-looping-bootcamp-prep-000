@@ -1,5 +1,5 @@
 
-var array = [];
+//var array = [];
 
 function forLoop (array) {
     for (let i = 0; i < 25; i++) {
@@ -12,4 +12,4 @@ function forLoop (array) {
     }
     return array
 }
-console.log(forLoop(array))
+//console.log(forLoop(array))
